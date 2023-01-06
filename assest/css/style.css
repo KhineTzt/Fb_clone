@@ -619,7 +619,7 @@ nav .right img {
     margin: 20px 0 50px 0;
 }
 
-.center-post .loard:hover {
+.center-post .loard button:hover {
     background: var(--primary);
 }
 
